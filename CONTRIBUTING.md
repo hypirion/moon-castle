@@ -2,12 +2,12 @@
 
 Hello reader!
 
-We would love to get contributors for moon-castle, and all the guidelines below is
-not an attempt to scare you away. As long as you're interested in contributing,
-we would love to hear from you. The reason we have these guidelines in place is
-to have more efficient communication between contributors, which means that we
-can merge in your patch faster, or understand and fix the bug you found more
-rapidly.
+We would love to get contributors for moon castle, and all the guidelines below
+is not an attempt to scare you away. As long as you're interested in
+contributing, we would love to hear from you. The reason we have these
+guidelines in place is to have more efficient communication between
+contributors, which means that we can merge in your patch faster, or understand
+and fix the bug you found more rapidly.
 
 If you're unsure whether you follow the guidelines or not, just send it. We're
 not picky, and as mentioned earlier, these guidelines is not there to scare you

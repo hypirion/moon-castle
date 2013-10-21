@@ -1,5 +1,5 @@
 (defproject moon-castle "0.1.0-SNAPSHOT"
-  :description "TODO: Add in description."
+  :description "(Unfinished) Clojure wrapper for the Bouncy Castle library"
   :url "https://github.com/hyPiRion/moon-castle"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
