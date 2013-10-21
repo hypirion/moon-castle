@@ -85,7 +85,7 @@ including the documentation, is a work in project.
 Copyright © 2013 by [hyPiRion](https://github.com/hyPiRion) and
 contributors.
 
-Distributed under the [Eclipse Public License, version 1.0][license]. You can
-find a copy in the root of this repository with the name `LICENSE`.
+Distributed under the [MIT License][license]. You can find a copy in the root of
+this repository with the name `LICENSE`.
 
-[license]: http://www.eclipse.org/legal/epl-v10.html "Eclipse Public License, version 1.0"
+[license]: http://opensource.org/licenses/MIT "The MIT License"
